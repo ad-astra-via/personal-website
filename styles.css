@@ -1,0 +1,10 @@
+body {
+    text-align: center; 
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+#profile-pic {
+    padding-top: 8em;
+    text-align: center;
+}
